@@ -1,0 +1,1 @@
+Full list of supported coins and supported swaps for Simplio Wallet
