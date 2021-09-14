@@ -90,4 +90,4 @@ This is the full list of coins supported in Simplio Wallet
 | Zcash | ZEC | <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1437.png" height="32" /> | <https://z.cash/> | [<img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1437.png" height="32" />](https://z.cash/) |
 | Zero | ZER | <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1578.png" height="32" /> | <https://zerocurrency.io/> | [<img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1578.png" height="32" />](https://zerocurrency.io/) |
 | 0x | ZRX | <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1896.png" height="32" /> | <https://0x.org/> | [<img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png" height="32" />](https://www.ethereum.org/) |
-| *SUPPORTED COINS* |||| *120* |
+| *SUPPORTED COINS [CHAINS]* |||| *120 [16]* |
